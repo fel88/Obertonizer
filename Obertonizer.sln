@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obertonizer", "Obertonizer\Obertonizer.csproj", "{6331EF87-9474-46D6-9128-F6540C19091D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6331EF87-9474-46D6-9128-F6540C19091D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6331EF87-9474-46D6-9128-F6540C19091D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6331EF87-9474-46D6-9128-F6540C19091D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6331EF87-9474-46D6-9128-F6540C19091D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC2214D3-A4D3-454F-A22A-58FEA695FD8F}
+	EndGlobalSection
+EndGlobal

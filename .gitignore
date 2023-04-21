@@ -1,0 +1,7 @@
+*.zip
+*.bak
+.vs/
+packages/
+bin/
+obj/
+todo.txt
